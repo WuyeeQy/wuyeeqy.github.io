@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # Welcome to Chenyu Zhang's Homepage
 
 ## Biography
