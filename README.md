@@ -24,5 +24,5 @@ Finalist, Interdisciplinary Contest In Modeling(ICM)
 
 ## Email
 
-[WuyeeQy\@163.com](mailto:WuyeeQy@163.com)\
-[202111011029\@mail.bnu.edu.cn](mailto:202111011029@mail.bnu.edu.cn)
+[WuyeeQy@163.com](mailto:WuyeeQy@163.com)\
+[202111011029@mail.bnu.edu.cn](mailto:202111011029@mail.bnu.edu.cn)
