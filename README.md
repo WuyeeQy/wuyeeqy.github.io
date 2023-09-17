@@ -6,7 +6,7 @@ I was born in Zizhong, Sichuan, China. I had my senior middle school education a
 
 ## Study Experience
 
-I've mastered analysis, algebra, probability, and statistics (including mathematical statistics, sampling survey) since 2021. In addition, I've studied physics, and economics (including macroeconomics, microeconomics and econometrics). I attended a causal inference course taught by Peng Ding at UC Berkeley, in the summer of 2023. In addition, I attended Joint Conference on Statistics and Data Science in China(JCSDS) and a short course covering martingale limit theory and other related topics by JCSDS and PKU, in July 2023. Now, I'm studying measure theory, functional analysis, multivariate statistics, linear model, stochastic process, and statistical limit theory.
+I've mastered analysis, algebra, probability, and statistics (including mathematical statistics, sampling survey) since 2021. In addition, I've studied physics, and economics (including macroeconomics, microeconomics and econometrics). I attended a causal inference course taught by Professor Peng Ding from UC Berkeley, in the summer of 2023. In addition, I attended Joint Conference on Statistics and Data Science in China(JCSDS) and a short course covering martingale limit theory and other related topics by JCSDS and PKU, in July 2023. Now, I'm studying measure theory, functional analysis, multivariate statistics, linear model, stochastic process, and statistical limit theory.
 
 ## Reaserch Experience
 
